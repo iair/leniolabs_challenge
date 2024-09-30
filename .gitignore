@@ -165,4 +165,7 @@ cython_debug/
 .DS_Store
 
 # ignore config files
-/config/
+/config/*
+
+# ignore all the files in data folder
+/data/*
