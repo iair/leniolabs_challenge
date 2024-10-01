@@ -1,7 +1,7 @@
 # leniolabs_challenge
 This is the challenge to get into a Data Scientist position in Leniolabs. 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## **The challenge was this:**
+## The challenge was this:
 
 **Case Study**
 
@@ -22,20 +22,24 @@ Demo the chatbot in an upcoming call. Explanation of both implemented and unimpl
 The goal is to develop a basic, working RAG and discuss how more advanced features could improve it, not so much the quality of the code.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## **What was done in the first POC and the deliver for the challenge was this:**
+## Roadmap
+
+**What was done in the first POC and the deliver for the challenge was this:**
 
 1. Training a chatbot that uses a basic RAG architecture to extract context from books and complement the answers it delivers by using LLM's (gpt-4o-mini in this case)
 2. Automatic evaluation mechanism with an evaluator agent and using a guideline created by me
 2. A version with a functional fast API
 3. Credential management with YAML
 
-## **However, i will use this project as starting point in my learning on how to deploy a System that use LLM's into production and i will continue to work on it during 2024. My next step are:**
+**However, i will use this project as starting point in my learning on how to deploy a System that use LLM's into production and i will continue to work on it during 2024.** 
+
+**My next step are:**
 
 1. Decouple training, evaluation and prediction phases
 2. Add a parser that can read complex documents and tables (probably llama-parser)
 3. Improve the evaluation mechanism
 4. Incorporate a tooling tool
 
-## **The Process diagram is this:**
+## The Process diagram:
 
 ![Chatbot Architecture with LLM and RAG System (1)](https://github.com/user-attachments/assets/348a9a89-0dac-43d8-aa55-6a4430df0f17)
