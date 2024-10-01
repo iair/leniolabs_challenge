@@ -17,9 +17,12 @@ Create an architecture diagram: Include both the components you implement (data 
 
 Demo the chatbot in an upcoming call. Explanation of both implemented and unimplemented concepts in the architecture diagram. Explain how you would integrate more advanced features into the chatbot. You don't need to send any code or written documentation; the live demo and discussion will suffice.
 
-**Deadline: One week.**
+**Deadline:**
+One week
 
-The goal is to develop a basic, working RAG and discuss how more advanced features could improve it, not so much the quality of the code.
+**The goal** 
+Develop a basic, working RAG and discuss how more advanced features could improve it, not so much the quality of the code.
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Roadmap
